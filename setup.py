@@ -5,7 +5,7 @@ with open("README.md", 'r') as f:
 
 
 setuptools.setup(
-    name="rasa_chinese_plugin",
+    name="rasa_print",
     version="6.0",
     author="ZhongLei",
     author_email="625015751@qq.com",
@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/zlxwl/rasa_chinese_extend_plugin.git",
+    url="https://github.com/zlxwl/rasa_print.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
