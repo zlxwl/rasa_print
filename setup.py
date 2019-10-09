@@ -44,7 +44,7 @@ install_requires = [
 ]
 
 setup(
-    name='rasa-nlu-gao',
+    name='rasa_print',
     packages=find_packages(),
     version=__version__,
     install_requires=install_requires,
